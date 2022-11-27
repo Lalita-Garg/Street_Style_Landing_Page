@@ -20,4 +20,4 @@ This project is a  simple static non-responsive street style landing page using 
 ![screenshot](./Screenshot.png)
 
 ***
-## Deployment Link : [Live Link](https://glistening-twilight-4b7078.netlify.app)
+## Deployment Link : [Live Link](https://street-style-landing-page-delta.vercel.app/)
